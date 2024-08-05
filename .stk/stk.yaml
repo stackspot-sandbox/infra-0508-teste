@@ -7,6 +7,7 @@ metadata:
   stack: stack-infra-inputs-novos@1.0.0
 spec:
   type: infra
+  infra-id: 01J4HPXZQJZ70RCYSYGTY2PM5F
   plugins:
     - name: 
         studio-inputs/stack-infra-inputs-novos@1.0.0/plugin-infra-with-new-inputs-and-requires-one-sns@1.0.0
